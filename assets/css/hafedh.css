@@ -285,7 +285,7 @@ header .navbar {
 }
 .navbar .navbar-toggler {
 	border-color: #fff;
-	background-color: #fff;	
+	background-color: #fff;
 	height: 36px;
 	outline: none;
 	border-radius: 0px;
@@ -1051,4 +1051,5 @@ footer .inner-content p a {
 		right: 0;
 		bottom: 0;
 	}
+  .mobilesOnly {visibility:hidden;}
 }
